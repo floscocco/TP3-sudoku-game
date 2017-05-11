@@ -1,0 +1,4 @@
+c:\users\alu601\documents\visual studio 2015\Projects\sudoku-game\sudoku-game\bin\Debug\sudoku-game.exe.config
+C:\Users\Usuario\Desktop\sudoku-game\sudoku-game\sudoku-game\bin\Debug\sudoku-game.exe.config
+C:\Users\Usuario\Documents\Visual Studio 2015\Projects\sudoku-game\sudoku-game\bin\Debug\sudoku-game.exe.config
+C:\Users\Usuario\Documents\Visual Studio 2015\Projects\sudoku-game\TP3-sudoku-game\sudoku-game\bin\Debug\sudoku-game.exe.config
